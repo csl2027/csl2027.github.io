@@ -115,11 +115,6 @@ footer {
   padding-top: 30px;
   z-index: 0;
 }
-
-#sidebar:hover{
-  width: 200px;
-}
-
 #sidebar-checkbox:checked ~ #sidebar {
   width: 200px;
 }
