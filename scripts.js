@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 			const nameHtml = person.WEBSITE
 				? `<a href="${person.WEBSITE}" target="_blank">${person.SURNAME} ${person.NAME}</a>`
 				: `${person.SURNAME} ${person.NAME}`;
-			const itemText = `${nameHtml} (${person.AFFILIATION}, ${person.COUNTRY})`;
+			const itemText = `${nameHtml} — ${person.AFFILIATION}, ${person.COUNTRY} ${person.COMMENT ? `(${person.COMMENT})` : ""}`;
 
 			roles.forEach((role) => {
 				if (!entriesByRole[role]) {
