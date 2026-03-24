@@ -139,7 +139,7 @@
         "NAME": "Dominik",
         "SURNAME": "Kirst",
         "AFFILIATION": "Inria Saclay",
-        "COUNTRY": "Germany",
+        "COUNTRY": "France",
         "WEBSITE": "https://ps.uni-saarland.de/~kirst/",
         "ROLE": "PC",
         "COMMENT": ""
@@ -163,7 +163,7 @@
         "NAME": "Ian",
         "SURNAME": "Shillito",
         "AFFILIATION": "University of Birmingham",
-        "COUNTRY": "Australia",
+        "COUNTRY": "UK",
         "WEBSITE": "https://research.birmingham.ac.uk/en/persons/ian-shillito/",
         "ROLE": "PC",
         "COMMENT": ""
@@ -344,8 +344,8 @@
         "ROLE": "PC",
         "COMMENT": ""
     },{
-        "NAME": "Altenkirch",
-        "SURNAME": "Thorsten",
+        "NAME": "Thorsten",
+        "SURNAME": "Altenkirch",
         "AFFILIATION": "University of Nottingham",
         "COUNTRY": "UK",
         "WEBSITE": "https://people.cs.nott.ac.uk/psztxa/",
