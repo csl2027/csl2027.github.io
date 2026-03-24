@@ -29,8 +29,8 @@ document.addEventListener("DOMContentLoaded", async () => {
 				.filter(Boolean);
 
 			const nameHtml = person.WEBSITE
-				? `<a href="${person.WEBSITE}" target="_blank">${person.SURNAME} ${person.NAME}</a>`
-				: `${person.SURNAME} ${person.NAME}`;
+				? `<a href="${person.WEBSITE}" target="_blank">${person.NAME} ${person.SURNAME}</a>`
+				: `${person.NAME} ${person.SURNAME}`;
 			const itemText = `${nameHtml} — ${person.AFFILIATION}, ${person.COUNTRY} ${person.COMMENT ? `(${person.COMMENT})` : ""}`;
 
 			roles.forEach((role) => {
