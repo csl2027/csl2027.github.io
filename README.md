@@ -1,1 +1,1 @@
-This is the official webpage of the international conference CSL 2027.
+This is the official webpage of the international conference Computer Science Logic (CSL) 2027.
