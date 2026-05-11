@@ -1,4 +1,30 @@
 document.addEventListener("DOMContentLoaded", async () => {
+	initSlideshow();
+	await initCommitteeLists();
+});
+
+function initSlideshow() {
+	const slides = Array.from(document.getElementsByClassName("mySlides"));
+	if (!slides.length) {
+		return;
+	}
+
+	let currentSlideIndex = -1;
+
+	const showNextSlide = () => {
+		slides.forEach((slide) => {
+			slide.style.display = "none";
+		});
+
+		currentSlideIndex = (currentSlideIndex + 1) % slides.length;
+		slides[currentSlideIndex].style.display = "block";
+	};
+
+	showNextSlide();
+	setInterval(showNextSlide, 5000);
+}
+
+async function initCommitteeLists() {
 	const roleLists = {
 		PCC: document.getElementById("pcc-list"),
 		PC: document.getElementById("pc-list"),
@@ -65,4 +91,4 @@ document.addEventListener("DOMContentLoaded", async () => {
 	} catch (error) {
 		console.error(error);
 	}
-});
+}
