@@ -4,7 +4,7 @@
         "SURNAME": "Acclavio",
         "AFFILIATION": "University of Southern Denmark",
         "COUNTRY": "Denmark",
-        "WEBSITE": "matteoacclavio.com",
+        "WEBSITE": "https://matteoacclavio.com",
         "ROLE": "LO, PC",
         "COMMENT": "Local Chair"
     },{
@@ -162,9 +162,9 @@
     },{
         "NAME": "Ian",
         "SURNAME": "Shillito",
-        "AFFILIATION": "University of Birmingham",
+        "AFFILIATION": "University of Melbourne",
         "COUNTRY": "UK",
-        "WEBSITE": "https://research.birmingham.ac.uk/en/persons/ian-shillito/",
+        "WEBSITE": "https://ianshil.github.io/",
         "ROLE": "PC",
         "COMMENT": ""
     },{
