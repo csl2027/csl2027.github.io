@@ -259,12 +259,12 @@ tr:nth-child(odd) {
 .bento{
   align-items: center;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(6, 1fr);
   grid-template-rows: repeat(2, 1fr);
   gap: 100px; 
   grid-template-areas: 
-    "sponsorBox-1 sponsorBox-1 sponsorBox-2 sponsorBox-2"
-    "sponsorBox-1 sponsorBox-1 sponsorBox-2 sponsorBox-2";
+    "sponsorBox-1 sponsorBox-1 sponsorBox-2 sponsorBox-2  sponsorBox-3 sponsorBox-3"
+    "sponsorBox-1 sponsorBox-1 sponsorBox-2 sponsorBox-2  sponsorBox-3 sponsorBox-3";
 }
 
 .box {
