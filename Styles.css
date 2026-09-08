@@ -294,7 +294,7 @@ tr:nth-child(odd) {
 #invited-speakers-grid {
   width: 100%;
   display: grid;
-  grid-template-columns: repeat(auto-fit, 180px);
+  grid-template-columns: repeat(auto-fit, 200px);
   justify-content: center;
   gap: 4rem;
 }
