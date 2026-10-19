@@ -327,4 +327,6 @@ tr:nth-child(odd) {
 
 .speaker-card span {
   font-weight: 600;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
