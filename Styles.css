@@ -308,7 +308,6 @@ tr:nth-child(odd) {
   color: inherit;
   text-align: center;
   text-decoration: none;
-  background: #fff;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgb(0 0 0 / 15%);
   transition: transform 0.2s, box-shadow 0.2s;
