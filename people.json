@@ -309,7 +309,7 @@
         "AFFILIATION": "University of Sussex",
         "COUNTRY": "UK",
         "WEBSITE": "https://philipsaville.co.uk/",
-        "ROLE": "PC",
+        "ROLE": "PC,LO",
         "COMMENT": ""
     },{
         "NAME": "Salvador",
@@ -382,6 +382,54 @@
         "COUNTRY": "UK",
         "WEBSITE": "https://profiles.sussex.ac.uk/p640350-julian-gutierrez",
         "ROLE": "PC",
+        "COMMENT": ""
+    },{
+        "NAME": "Dylan",
+        "SURNAME": "Bettendroffer",
+        "AFFILIATION": "University of Sussex",
+        "COUNTRY": "UK",
+        "WEBSITE": "https://dylanbettendroffer.fr/",
+        "ROLE": "LO",
+        "COMMENT": ""
+    },{
+        "NAME": "Vít",
+        "SURNAME": "Jelínek",
+        "AFFILIATION": "University of Sussex",
+        "COUNTRY": "UK",
+        "WEBSITE": "https://jelinekv.github.io/",
+        "ROLE": "LO",
+        "COMMENT": ""
+    },{
+        "NAME": "Alessio",
+        "SURNAME": "Santamaria",
+        "AFFILIATION": "University of Sussex",
+        "COUNTRY": "UK",
+        "WEBSITE": "https://alessio-santamaria.com/",
+        "ROLE": "LO",
+        "COMMENT": ""
+    },{
+        "NAME": "Linus Mendel",
+        "SURNAME": "Schoenfelder",
+        "AFFILIATION": "University of Sussex",
+        "COUNTRY": "UK",
+        "WEBSITE": "https://profiles.sussex.ac.uk/p660882-linus-mendel-schoenfelder",
+        "ROLE": "LO",
+        "COMMENT": ""
+    },{
+        "NAME": "Vincent",
+        "SURNAME": "Sommella",
+        "AFFILIATION": "University of Sussex",
+        "COUNTRY": "UK",
+        "WEBSITE": "https://profiles.sussex.ac.uk/p639219-vincent-sommella",
+        "ROLE": "LO",
+        "COMMENT": ""
+    },{
+        "NAME": "Nox",
+        "SURNAME": "Cowie",
+        "AFFILIATION": "University of Sussex",
+        "COUNTRY": "UK",
+        "WEBSITE": "https://noxcowie.com/",
+        "ROLE": "LO",
         "COMMENT": ""
     }
 ]
