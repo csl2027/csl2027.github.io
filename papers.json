@@ -1,158 +1,158 @@
 [
     {
-        "TITLE": "The Leibniz adjunction in homotopy type theory, with an application to simplicial type theory",
-        "AUTHORS": "T. de Jong, N. Kraus, A. Ljungström"
-    },
-    {
-        "TITLE": "Override and Update in Restriction Categories",
-        "AUTHORS": "J. Lemay, C. Nester"
-    },
-    {
-        "TITLE": "An order-reversing embedding of Turing degrees into Arthur-Nimue-Merlin degrees",
-        "AUTHORS": "J. Abou Samra, D. Madore"
-    },
-    {
-        "TITLE": "The SPARSE-Relativization Framework and Applications to Optimal Proof Systems",
-        "AUTHORS": "F. Egidy"
-    },
-    {
-        "TITLE": "What is a Model of the Linear Lambda Calculus?",
-        "AUTHORS": "A. De Faveri"
-    },
-    {
-        "TITLE": "Almost free algebras: polynomial-time algorithms and quantifier elimination",
-        "AUTHORS": "Y. Jia, B. Khoussainov, H. Koh"
-    },
-    {
-        "TITLE": "Edge-coloring problems with forbidden patterns and planted colors",
-        "AUTHORS": "A. Barsukov, A. Mottet, D. Perinti"
-    },
-    {
-        "TITLE": "Wider systems for linear logic with fixed points: proof theory and complexity",
-        "AUTHORS": "A. Das, T. Pshenitsyn"
-    },
-    {
-        "TITLE": "Linear Axiomatization of Linear Differential Equations",
-        "AUTHORS": "L. Qian, A. Platzer"
-    },
-    {
-        "TITLE": "The Universal Property of Measure-Theoretic Probability",
-        "AUTHORS": "E. Rischel"
-    },
-    {
-        "TITLE": "An unbiased simply typed combinatory logic",
-        "AUTHORS": "S. Mimram"
-    },
-    {
-        "TITLE": "Oddomorphisms, Split-Off Minors, and the Strong Roberson Conjecture",
-        "AUTHORS": "A. Kristjánsson"
-    },
-    {
-        "TITLE": "Interpolation via Generalized Splitting",
-        "AUTHORS": "L. Straßburger"
-    },
-    {
-        "TITLE": "A Unique Normal Form for Tensor Trains over Arbitrary Fields",
-        "AUTHORS": "R. Vilmart"
-    },
-    {
-        "TITLE": "Non-Expansive Quantitative Coalgebraic Logic",
-        "AUTHORS": "S. Gebhart, L. Schröder, P. Wild"
-    },
-    {
-        "TITLE": "For Generalised Algebraic Theories, Two Sorts Are Enough",
-        "AUTHORS": "S. Avrillon, A. Kaposi, A. Lafont, N. Najmaei, J. Rosain"
-    },
-    {
-        "TITLE": "No Uniform Interpolation in Linear Logic",
-        "AUTHORS": "R. Di Guardia"
-    },
-    {
-        "TITLE": "Pairwise-Consistent K-Relations and Axioms of Functional Dependence",
-        "AUTHORS": "T. Barlag, M. Hannula, J. Kontinen, N. Pardal, J. Virtema"
-    },
-    {
-        "TITLE": "Complete test suites for effectful automata",
-        "AUTHORS": "B. Kocsis, R. Koenders, J. Moerman, J. Rot"
-    },
-    {
-        "TITLE": "Reconstruction of Σ-Module Models of Linear Logic via Completion and Orthogonality",
-        "AUTHORS": "Y. Ito, K. Asada"
-    },
-    {
-        "TITLE": "ATL* with Resources under Imperfect Information: An Automata-based Decision Procedure",
-        "AUTHORS": "N. Dumange"
-    },
-    {
-        "TITLE": "Agent-Alternation-Free Epistemic Metric Temporal Logic with Past: Model Checking and Complexity",
-        "AUTHORS": "B. Bollig, M. Függer, T. Nowak, P. Zeinaty"
-    },
-    {
-        "TITLE": "From Phase Semantics to Base-extension Semantics (and back)",
-        "AUTHORS": "E. Piotrovskaya"
-    },
-    {
-        "TITLE": "Connectivity at the crossroad of intuitionistic and classical polarizations in linear logic",
-        "AUTHORS": "R. Di Donna, G. Guerrieri, L. Tortora de Falco"
-    },
-    {
-        "TITLE": "Impredicativity in Linear Dependent Type Theory",
-        "AUTHORS": "S. Speight, N. van der Weide"
-    },
-    {
-        "TITLE": "Powerdomains and nondeterminism in synthetic domain theory",
-        "AUTHORS": "Y. Niu, T. Sekiyama"
-    },
-    {
-        "TITLE": "Cover Semantics Beyond Distributivity",
-        "AUTHORS": "J. de Groot, N. Valliappan"
-    },
-    {
-        "TITLE": "On the semantics of conditional branching.",
-        "AUTHORS": "F. Dahlqvist"
-    },
-    {
-        "TITLE": "Safety Analysis of Parameterized Networks with Shared Counters",
-        "AUTHORS": "J. Roupin, A. Sangnier"
-    },
-    {
-        "TITLE": "Sheaf Realizability for Dependent Type Theory",
-        "AUTHORS": "B. da Rocha Paiva, V. Rahli, S. Speight, L. Cohen"
-    },
-    {
-        "TITLE": "Proof-Relevant Realizability Models of Intensional Type Theory",
-        "AUTHORS": "S. Speight"
-    },
-    {
-        "TITLE": "An Automata-Based Approach to Games with ω-Automatic Preferences",
-        "AUTHORS": "V. Bruyère, E. Filiot, C. Grandmont, J. Raskin"
-    },
-    {
-        "TITLE": "Abstraction Logic: A Complete Logic over Second-Order Abstract Syntax",
-        "AUTHORS": "S. Obua"
-    },
-    {
         "TITLE": "A Multi-Prover Interactive Protocol for Certification of Resolution Refutations",
-        "AUTHORS": "A. Krauss, J. Pietsch, J. Esparza, P. Czerner"
-    },
-    {
-        "TITLE": "Probabilistic Simple Types for Almost-Sure Termination",
-        "AUTHORS": "W. Heijltjes, U. Dal Lago"
+        "AUTHORS": "Adrian Krauss, Josia Pietsch, Javier Esparza, Philipp Czerner"
     },
     {
         "TITLE": "A Theory of Hanoi Omega-Games",
-        "AUTHORS": "E. Filiot, A. Joseph, G. Pérez, S. Sunny"
-    },
-    {
-        "TITLE": "Proof-Relevant Interpolation for Circular Proofs in Linear Logic",
-        "AUTHORS": "D. Osorio-Valencia, A. Saurin"
+        "AUTHORS": "Emmanuel Filiot, Allen Joseph, Guillermo A. Pérez, Saina Sunny"
     },
     {
         "TITLE": "A type theory for invertibility in weak ω-categories",
-        "AUTHORS": "T. Benjamin, C. Champin, I. Markakis"
+        "AUTHORS": "Thibaut Benjamin, Camil Champin, Ioannis Markakis"
+    },
+    {
+        "TITLE": "A Unique Normal Form for Tensor Trains over Arbitrary Fields",
+        "AUTHORS": "Renaud Vilmart"
+    },
+    {
+        "TITLE": "Abstraction Logic: A Complete Logic over Second-Order Abstract Syntax",
+        "AUTHORS": "Steven Obua"
+    },
+    {
+        "TITLE": "Agent-Alternation-Free Epistemic Metric Temporal Logic with Past: Model Checking and Complexity",
+        "AUTHORS": "Benedikt Bollig, Matthias Függer, Thomas Nowak, Paul Zeinaty"
+    },
+    {
+        "TITLE": "Almost free algebras: polynomial-time algorithms and quantifier elimination",
+        "AUTHORS": "Yifan Jia, Bakh Khoussainov, Heer Tern Koh"
+    },
+    {
+        "TITLE": "An Automata-Based Approach to Games with ω-Automatic Preferences",
+        "AUTHORS": "Véronique Bruyère, Emmanuel Filiot, Christophe Grandmont, Jean-François Raskin"
+    },
+    {
+        "TITLE": "An order-reversing embedding of Turing degrees into Arthur–Nimue–Merlin degrees",
+        "AUTHORS": "Jean Abou Samra, David Madore"
+    },
+    {
+        "TITLE": "An unbiased simply typed combinatory logic",
+        "AUTHORS": "Samuel Mimram"
+    },
+    {
+        "TITLE": "ATL* with Resources under Imperfect Information: An Automata-based Decision Procedure",
+        "AUTHORS": "Nicolas Dumange"
+    },
+    {
+        "TITLE": "Complete test suites for effectful automata",
+        "AUTHORS": "Bálint Kocsis, Rick Koenders, Joshua Moerman, Jurriaan Rot"
+    },
+    {
+        "TITLE": "Connectivity at the crossroad of intuitionistic and classical polarizations in linear logic",
+        "AUTHORS": "Raffaele Di Donna, Giulio Guerrieri, Lorenzo Tortora de Falco"
+    },
+    {
+        "TITLE": "Cover Semantics Beyond Distributivity",
+        "AUTHORS": "Jim de Groot, Nachiappan Valliappan"
+    },
+    {
+        "TITLE": "Edge-coloring problems with forbidden patterns and planted colors",
+        "AUTHORS": "Alexey Barsukov, Antoine Mottet, Davide Perinti"
+    },
+    {
+        "TITLE": "For Generalised Algebraic Theories, Two Sorts Are Enough",
+        "AUTHORS": "Samy Avrillon, Ambrus Kaposi, Ambroise Lafont, Niyousha Najmaei, Johann Rosain"
+    },
+    {
+        "TITLE": "From Phase Semantics to Base-extension Semantics (and back)",
+        "AUTHORS": "Ekaterina Piotrovskaya"
     },
     {
         "TITLE": "Generating Higher Identity Proofs in Homotopy Type Theory",
-        "AUTHORS": "T. Benjamin"
+        "AUTHORS": "Thibaut Benjamin"
+    },
+    {
+        "TITLE": "Impredicativity in Dependent Linear Type Theory",
+        "AUTHORS": "Sam Speight, Niels van der Weide"
+    },
+    {
+        "TITLE": "Interpolation via Generalized Splitting",
+        "AUTHORS": "Lutz Straßburger"
+    },
+    {
+        "TITLE": "Linear Axiomatization of Linear Differential Equations",
+        "AUTHORS": "Long Qian, André Platzer"
+    },
+    {
+        "TITLE": "No Uniform Interpolation in Linear Logic",
+        "AUTHORS": "Rémi Di Guardia"
+    },
+    {
+        "TITLE": "Non-Expansive Quantitative Coalgebraic Logic",
+        "AUTHORS": "Stefan Gebhart, Lutz Schröder, Paul Wild"
+    },
+    {
+        "TITLE": "Oddomorphisms, Split-Off Minors, and the Strong Roberson Conjecture",
+        "AUTHORS": "Arnar Á. Kristjánsson"
+    },
+    {
+        "TITLE": "On the semantics of conditional branching",
+        "AUTHORS": "Fredrik Dahlqvist"
+    },
+    {
+        "TITLE": "Override and Update in Restriction Categories",
+        "AUTHORS": "Jean-Simon Lemay, Chad Nester"
+    },
+    {
+        "TITLE": "Pairwise-Consistent K-Relations and Axioms of Functional Dependence",
+        "AUTHORS": "Timon Barlag, Miika Hannula, Juha Kontinen, Nina Pardal, Jonni Virtema"
+    },
+    {
+        "TITLE": "Powerdomains and nondeterminism in synthetic domain theory",
+        "AUTHORS": "Yue Niu, Taro Sekiyama"
+    },
+    {
+        "TITLE": "Probabilistic Simple Types for Almost-Sure Termination",
+        "AUTHORS": "Willem Heijltjes, Ugo Dal Lago"
+    },
+    {
+        "TITLE": "Proof-Relevant Interpolation for Circular Proofs in Linear Logic",
+        "AUTHORS": "Daniel Osorio-Valencia, Alexis Saurin"
+    },
+    {
+        "TITLE": "Proof-Relevant Realizability Models of Intensional Type Theory",
+        "AUTHORS": "Sam Speight"
+    },
+    {
+        "TITLE": "Reconstruction of Σ-Module Models of Linear Logic via Completion and Orthogonality",
+        "AUTHORS": "Yo Ito, Kazuyuki Asada"
+    },
+    {
+        "TITLE": "Safety Analysis of Parameterized Networks with Shared Counters",
+        "AUTHORS": "June Roupin, Arnaud Sangnier"
+    },
+    {
+        "TITLE": "Sheaf Realizability for Dependent Type Theory",
+        "AUTHORS": "Bruno da Rocha Paiva, Vincent Rahli, Sam Speight, Liron Cohen"
+    },
+    {
+        "TITLE": "The Leibniz adjunction in homotopy type theory, with an application to simplicial type theory",
+        "AUTHORS": "Tom de Jong, Nicolai Kraus, Axel Ljungström"
+    },
+    {
+        "TITLE": "The SPARSE-Relativization Framework and Applications to Optimal Proof Systems",
+        "AUTHORS": "Fabian Egidy"
+    },
+    {
+        "TITLE": "The Universal Property of Measure-Theoretic Probability",
+        "AUTHORS": "Eigil Rischel"
+    },
+    {
+        "TITLE": "What is a Model of the Linear Lambda Calculus?",
+        "AUTHORS": "Arturo De Faveri"
+    },
+    {
+        "TITLE": "Wider systems for linear logic with fixed points: proof theory and complexity",
+        "AUTHORS": "Anupam Das, Tikhon Pshenitsyn"
     }
 ]

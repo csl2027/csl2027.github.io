@@ -70,7 +70,7 @@
 
               papers.forEach((paper) => {
                   const item = document.createElement("li");
-                  item.textContent = `${paper.TITLE} — ${paper.AUTHORS}`;
+                  item.textContent = `<b>${paper.TITLE} </b>— ${paper.AUTHORS}`;
                   container.appendChild(item);
               });
           } catch (error) {
