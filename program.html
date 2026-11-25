@@ -36,16 +36,48 @@
 
 
     <main>
-      <h2 id="program">Program</h2>
-      <div>TBA</div>
+      </section>
+        <h2 id="program">Program</h2>
+        <div>TBA</div>
+      </section>
 
-      <h2 id="accepted">Accepted Papers</h2>
-      <div>TBA</div>
+      <section>
+        <h2 id="accepted">Accepted Papers</h2>
+        <ul id="accepted-papers-list"></ul>
+      </section>
     </main>
 
     <footer>
       <div>Computer Science Logic 2027 (CSL 2027)</div>
       <div>contactEmail</div>
     </footer>
+
+    <script>
+      async function initAcceptedPapers() {
+          const container = document.getElementById("accepted-papers-list");
+          if (!container) {
+              return;
+          }
+
+          try {
+              const response = await fetch("papers.json");
+              if (!response.ok) {
+                  throw new Error(`Failed to load papers.json: ${response.status}`);
+              }
+
+              const papers = await response.json();
+
+              papers.forEach((paper) => {
+                  const item = document.createElement("li");
+                  item.textContent = `${paper.TITLE} — ${paper.AUTHORS}`;
+                  container.appendChild(item);
+              });
+          } catch (error) {
+              console.error(error);
+          }
+      }
+
+      initAcceptedPapers();
+    </script>
   </body>
 </html>
